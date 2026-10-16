@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I'm Krishika 👋
+🎓 Student 💻 Learning AI and Web Development 🌱 Currently exploring Generative AI
+Fun Fact: Started working on my tech skills only during my final year of college, so good luck to me :))
 <!--
 **krishika-26/krishika-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
